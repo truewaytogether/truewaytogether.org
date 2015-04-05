@@ -11,6 +11,10 @@ Thumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
+# Test and Deployment Files
+/deploy.php
+/phpinfo.php
+
 # Exclude Wordpress Instance Configuration
 *.log
 .htaccess
